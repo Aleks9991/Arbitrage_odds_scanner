@@ -1,0 +1,54 @@
+{
+  "1": {
+    "name": "1X2",
+    "short_name": "1X2"
+  },
+  "2": {
+    "name": "Over/Under",
+    "short_name": "O/U"
+  },
+  "3": {
+    "name": "Home/Away",
+    "short_name": "Home/Away"
+  },
+  "4": {
+    "name": "Double Chance",
+    "short_name": "DC"
+  },
+  "5": {
+    "name": "Asian Handicap",
+    "short_name": "AH"
+  },
+  "6": {
+    "name": "Draw No Bet",
+    "short_name": "DNB"
+  },
+  "7": {
+    "name": "To Qualify",
+    "short_name": "TQ"
+  },
+  "8": {
+    "name": "Correct Score",
+    "short_name": "CS"
+  },
+  "9": {
+    "name": "Half Time / Full Time",
+    "short_name": "HT/FT"
+  },
+  "10": {
+    "name": "Odd or Even",
+    "short_name": "O/E"
+  },
+  "11": {
+    "name": "Winner",
+    "short_name": "Winner"
+  },
+  "12": {
+    "name": "European Handicap",
+    "short_name": "EH"
+  },
+  "13": {
+    "name": "Both Teams to Score",
+    "short_name": "BTS"
+  }
+}
